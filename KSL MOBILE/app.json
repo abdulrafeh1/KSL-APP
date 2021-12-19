@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ksl",
+    "slug": "ksl",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Logo(2).png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "ksl.ar.com"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
